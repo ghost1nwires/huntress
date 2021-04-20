@@ -1,0 +1,8 @@
+{
+  "name": "Huntress",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "7c878bd7"
+}
